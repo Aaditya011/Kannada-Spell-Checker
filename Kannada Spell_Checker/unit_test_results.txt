@@ -1,0 +1,96 @@
+PS C:\Users\aadit\OneDrive\Desktop\IndividualProject\final-year-project-Aaditya011> & "C:/Program Files/Python312/python.exe" c:/Users/aadit/OneDrive/Desktop/IndividualProject/final-year-project-Aaditya011/test.py
+Test search for invalid mixed content 'ಭಾರತ-2021': False
+--------------------------------------------------------------------------------------------
+.Test search for 'ಕನ್ನಡ+India': True
+.Suggestions for 'ಸಾಕಾಣಿಗ': ['ಸಾಕಾಣಿಕ', 'ಸಾಕಾಣಿಗೆ', 'ಸುಕಾಲಿಗ', 'ಸಾಕಾಗ', 'ಸಾಕಾಗಿ', 'ಸಾಕಾಣಿಕಾ', 'ಸಾಕಾಣಿಕೆ', 'ಸಾಕಾಣೆ']
+Passed: Correct spelling 'ಸಾಕಾಣಿಗೆ' was suggested for 'ಸಾಕಾಣಿಗ'.
+--------------------------------------------------------------------------------------------
+Suggestions for 'ಉತ್ತರಕಾಶ್ಮೀರಾ': ['ಉತ್ತರಕಾಶ್ಮೀರ', 'ಕುತಂತ್ರಕಾಶ್ಮೀರ', 'ವರ್ಗಕಾಶ್ಮೀರ', 'ವರ್ಗಕಾಶ್ಮೀರಿ', 'ಉತ್ತರಭಾದ್ರ', 'ಉತ್ತರಾಭಾದ್ರಾ', 'ಉತ್ತರಕರ್ಮ', 'ಉತ್ತರಕರ್ಮಗಳು']
+Passed: Correct spelling 'ಉತ್ತರಕಾಶ್ಮೀರ' was suggested for 'ಉತ್ತರಕಾಶ್ಮೀರಾ'.
+--------------------------------------------------------------------------------------------
+Suggestions for 'ಉತ್ತರಕುಮಾರನ್': ['ಉತ್ತರಕುಮಾರನ', 'ಉತ್ತರಕುಮಾರನೂ', 'ಉತ್ತರಕುಮಾರ', 'ಉತ್ತರಕುಮಾರನೆಂಬ', 'ಮುತ್ತುಕುಮಾರ್', 'ವತ್ಸಕುಮಾರ್', 'ಸಂಪತ್ಕುಮಾರನ್', 'ರತ್ನಕುಮಾರ್']
+Passed: Correct spelling 'ಉತ್ತರಕುಮಾರ' was suggested for 'ಉತ್ತರಕುಮಾರನ್'.
+--------------------------------------------------------------------------------------------
+Suggestions for 'ಉತ್ತರಕುಮಾರನಾ': ['ಉತ್ತರಕುಮಾರನ', 'ಉತ್ತರಕುಮಾರನೂ', 'ಉತ್ತರಕುಮಾರ', 'ಉತ್ತರಕುಮಾರನೆಂಬ', 'ಶಕ್ತಿಕುಮಾರನ', 'ಉತ್ತರಕುರು', 'ಉತ್ತರಕೆನರಾ', 'ಉತ್ತರಮೀಮಾಂಸಾ']
+Passed: Correct spelling 'ಉತ್ತರಕುಮಾರನ' was suggested for 'ಉತ್ತರಕುಮಾರನಾ'.
+--------------------------------------------------------------------------------------------
+Suggestions for 'ಉತ್ತರಕುಮಾರನು': ['ಉತ್ತರಕುಮಾರನ', 'ಉತ್ತರಕುಮಾರನೂ', 'ಉತ್ತರಕುಮಾರ', 'ಉತ್ತರಕುಮಾರನೆಂಬ', 'ಉತ್ತರಕುರು', 'ಶಕ್ತಿಕುಮಾರನ', 'ಉತ್ತರಕೊಟ್ಟನು', 'ಉತ್ತರ           ರಿಸಲಾರದು']
+Passed: Correct spelling 'ಉತ್ತರಕುಮಾರನೂ' was suggested for 'ಉತ್ತರಕುಮಾರನು'.
+--------------------------------------------------------------------------------------------
+Suggestions for 'ಉತ್ತರಕುಮಾರನೆಂಬಾ': ['ಉತ್ತರಕುಮಾರನೆಂಬ', 'ವಜ್ರಕುಮಾರನೆಂಬ', 'ಉತ್ತರಕುಮಾರನ', 'ಉತ್ತರಕುಮಾರನೂ', 'ಉತ್ತರಕುಮಾರ', 'ದೇವರಕುಮಾರನೆಂದು', 'ಚತುಷ್ಕುಮಾರರ          ರೆಂಬ', 'ಉತ್ತರಮೀಮಾಂಸಾ']
+Passed: Correct spelling 'ಉತ್ತರಕುಮಾರನೆಂಬ' was suggested for 'ಉತ್ತರಕುಮಾರನೆಂಬಾ'.
+--------------------------------------------------------------------------------------------
+Suggestions for 'ಉತ್ತರಕುಮಾರನೆನ್ನುವುದ': ['ಉತ್ತರಕುಮಾರನೆನ್ನುವುದು', 'ಉತ್ತರಕುಮಾರನೆಂಬ', 'ಮಂದ್ರಕುಮಾರನನ್ನು', 'ಒತ್ತರಕಾರಕವನ್ನು', 'ಅತ್ಯಾಚಾರವೆನ್ನುವುದು', 'ಉತ್ತ               ತರಭಾರತವನ್ನು', 'ಉತ್ತರಕಾಂಡವನ್ನು', 'ಉತ್ತರಕುಮಾರನ']
+Passed: Correct spelling 'ಉತ್ತರಕುಮಾರನೆನ್ನುವುದು' was suggested for 'ಉತ್ತರಕುಮಾರನೆನ್ನುವುದ'.
+--------------------------------------------------------------------------------------------
+Suggestions for 'ಉತ್ತರಕುರಾ': ['ಉತ್ತರಕುರು', 'ಉತ್ತರಕುಮಾರ', 'ಉತ್ತರಕೆನರಾ', 'ಉತ್ತರಪುರಾಣ', 'ಉತ್ತರಭಾರತ', 'ಉತ್ತರಾ', 'ಉತ್ತರಕರ್ಮ', 'ಉತ್ತರಕಾಶಿ']
+Passed: Correct spelling 'ಉತ್ತರಕುರು' was suggested for 'ಉತ್ತರಕುರಾ'.
+--------------------------------------------------------------------------------------------
+Suggestions for 'ಉತ್ತರಕುರುವಿನಿಂದಾ': ['ಉತ್ತರಕುರುವಿನಿಂದ', 'ಉತ್ತರಮೇರುವಿನಿಂದ', 'ಉತ್ತರಧ್ರುವದಿಂದ', 'ಸದ್ಗುರುವಿನಿಂದ', 'ಶತ್ರುವಿನಿಂದ', 'ಉತ್ತರದಿಕ್ಕಿನಿಂದ', 'ಉ                      ಉತ್ತರಮೇರುವಿನ', 'ಉತ್ತರಮೇರುವಿನಲ್ಲಿ']
+Passed: Correct spelling 'ಉತ್ತರಕುರುವಿನಿಂದ' was suggested for 'ಉತ್ತರಕುರುವಿನಿಂದಾ'.
+--------------------------------------------------------------------------------------------
+Suggestions for 'ಉತ್ತರಕೆನರ': ['ಉತ್ತರಕೆನರಾ', 'ಉತ್ತರಾಯನ', 'ಉತ್ತರಾಯನೇ', 'ಉತ್ತರಕರ್ಮ', 'ಉತ್ತರಕಾಶಿ', 'ಉತ್ತರಕಾಂಡ', 'ಉತ್ತರಕಾಗಿ', 'ಉತ್ತರಕಾಲ']
+Passed: Correct spelling 'ಉತ್ತರಕೆನರಾ' was suggested for 'ಉತ್ತರಕೆನರ'.
+--------------------------------------------------------------------------------------------
+Suggestions for 'ಉತ್ತರಕೊಂಕಣಗಲ': ['ಉತ್ತರಕೊಂಕಣಗಳ', 'ಉತ್ತರಕ್ಕಾಗಿ', 'ಉತ್ತರದೊಂದಿಗೆ', 'ಹತ್ತಿಕೊಂಡಾಗ', 'ಸಪ್ತಕೊಂಕಣ', 'ಸಪ್ತಕೊಂಕಣಂ', 'ದತ್ತರೊಂದಿಗೆ', 'ಒತ್ತಿಕೊಂ                ಂಡಾಗ']
+Passed: Correct spelling 'ಉತ್ತರಕೊಂಕಣಗಳ' was suggested for 'ಉತ್ತರಕೊಂಕಣಗಲ'.
+--------------------------------------------------------------------------------------------
+Suggestions for 'ಉತ್ತರಕೊಟ್ತ': ['ಉತ್ತರಕೊಟ್ಟ', 'ಉತ್ತರಕೊಟ್ಟು', 'ದತ್ತಿಕೊಟ್ಟ', 'ಒತ್ತುಕೊಟ್ಟ', 'ಅತ್ತೆಕೊಟ್ಟ', 'ಉತ್ತರಾಟ್', 'ಉತ್ತರಕರ್ಮ', 'ಉತ್ತರಕೊರಿಯ']
+Passed: Correct spelling 'ಉತ್ತರಕೊಟ್ಟ' was suggested for 'ಉತ್ತರಕೊಟ್ತ'.
+--------------------------------------------------------------------------------------------
+Suggestions for 'ಮಾತಡತ್ತಿದ್ದಳು': ['ಮಾಡ್ತಿದ್ದಳು', 'ಮಾರುತ್ತಿದ್ದಳು', 'ಬಾಚುತ್ತಿದ್ದಳು', 'ಮಾತಾಡುತ್ತಿದ್ದವು', 'ಮಾತಿತ್ತಿದ್ದೆವು', 'ಮಾತೆತ್ತಿದ್ದರೂ', 'ಮಾತೆತ್ತಿ                          ದ್ದರೆ', 'ಮಾತೆತ್ತಿದಳು']
+Failed: Correct spelling 'ಮಾತಾಡುತ್ತಿದ್ದಳು' not suggested for 'ಮಾತಡತ್ತಿದ್ದಳು'.
+FSuggestions for 'ಅಂಗವಾಡಿಗನ್ನು': ['ಅಂಗನವಾಡಿಯನ್ನು', 'ಗಂಗವಾಡಿಯನ್ನು', 'ಅಂಗಡಿಯನ್ನು', 'ಅಂಗಹಾನಿಯನ್ನು', 'ಅಂಗಹಾನಿಗಳನ್ನು', 'ಅವರವಾಡಿಯನ್ನು', 'ಹಾವಾಡಿಗರನ್ನು',                 'ಬಾಲವಾಡಿಯನ್ನು']
+Failed: Correct spelling 'ಅಂಗನವಾಡಿಗಳನ್ನು' not suggested for 'ಅಂಗವಾಡಿಗನ್ನು'.
+FSuggestions for 'ಪ್ರೀತಸತ್ತಿದ್ದನು': ['ಪ್ರೀತಿಸುತ್ತಿದ್ದು', 'ಪ್ರೀತಿಸುತ್ತಿದ್ದ', 'ಪ್ರೀತಿಸುತ್ತಿದ್ದಾನೆ', 'ಪ್ರೀತಿಸುತ್ತಿದ್ದರೂ', 'ಪ್ರೀತಿಸುತ್ತಿದ್ದರೆ', 'ಪ್ರೀತ                               ತಿಸುತ್ತಿದ್ದೇನೆ', 'ಪ್ರೀತಿಸುತ್ತಿದ್ದೆ', 'ಪ್ರೀತಿಸುತ್ತಿದ್ದೆವು']
+Failed: Correct spelling 'ಪ್ರೀತಿಸುತ್ತಿದ್ದನು' not suggested for 'ಪ್ರೀತಸತ್ತಿದ್ದನು'.
+FAnalyzing word: ಬರೆ
+Word 'ಬರೆ' is a valid root, generating suggestions using all suffixes.
+Suggestions for 'ಬರೆ': ['ಬರೆದ್ದನು', 'ಬರೆದ್ದಳು', 'ಬರೆದ್ದರು']
+Suggestions for 'ಬರೆ': ['ಬರೆದ್ದನು', 'ಬರೆದ್ದರು', 'ಬರೆದ್ದಳು']
+--------------------------------------------------------------------------------------------
+.Analyzing word: ನಡೆ
+Word 'ನಡೆ' is a valid root, generating suggestions using all suffixes.
+Suggestions for 'ನಡೆ': ['ನಡೆದ', 'ನಡೆದಲ್ಲಿ', 'ನಡೆದಿಂದ']
+Suggestions for 'ನಡೆ': ['ನಡೆದಲ್ಲಿ', 'ನಡೆದ', 'ನಡೆದಿಂದ']
+--------------------------------------------------------------------------------------------
+.Analyzing word: ಓದು
+Word 'ಓದು' is a valid root, generating suggestions using all suffixes.
+Suggestions for 'ಓದು': ['ಓದುತ್ತಿದ್ದಳು', 'ಓದುತ್ತಿದ್ದನು', 'ಓದುತ್ತಿದ್ದಾರೆ', 'ಓದುತ್ತೀಯ', 'ಓದುತ್ತಾರೆ']
+Suggestions for 'ಓದು': ['ಓದುತ್ತಿದ್ದಾರೆ', 'ಓದುತ್ತೀಯ', 'ಓದುತ್ತಿದ್ದಳು', 'ಓದುತ್ತಾರೆ', 'ಓದುತ್ತಿದ್ದನು']
+--------------------------------------------------------------------------------------------
+.Test insert and search for 'ಕನ್ನಡ': True
+.Test search for non-existent word 'ಭಾರತ': False
+.Test if 'English' is Kannada: False
+.Test if 'ಕನ್ನಡ' is Kannada: True
+.Test if '123' is Kannada number: False
+.Test if '೧೨೩' is Kannada number: True
+.
+======================================================================
+FAIL: test_misspellings (__main__.TestSpellSuggestions.test_misspellings) (misspelled='ಮಾತಡತ್ತಿದ್ದಳು')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "c:\Users\aadit\OneDrive\Desktop\IndividualProject\final-year-project-Aaditya011\test.py", line 130, in test_misspellings
+    self.assertIn(expected_correct, suggestion_words, f"Correct spelling '{expected_correct}' not suggested for '{misspelled}'")
+AssertionError: 'ಮಾತಾಡುತ್ತಿದ್ದಳು' not found in ['ಮಾಡ್ತಿದ್ದಳು', 'ಮಾರುತ್ತಿದ್ದಳು', 'ಬಾಚುತ್ತಿದ್ದಳು', 'ಮಾತಾಡುತ್ತಿದ್ದವು', 'ಮಾತಿತ್ತಿದ್ದೆವು', 'ಮಾತೆತ್ತಿದ್ದ                       ದರೂ', 'ಮಾತೆತ್ತಿದ್ದರೆ', 'ಮಾತೆತ್ತಿದಳು'] : Correct spelling 'ಮಾತಾಡುತ್ತಿದ್ದಳು' not suggested for 'ಮಾತಡತ್ತಿದ್ದಳು'
+
+======================================================================
+FAIL: test_misspellings (__main__.TestSpellSuggestions.test_misspellings) (misspelled='ಅಂಗವಾಡಿಗನ್ನು')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "c:\Users\aadit\OneDrive\Desktop\IndividualProject\final-year-project-Aaditya011\test.py", line 130, in test_misspellings
+    self.assertIn(expected_correct, suggestion_words, f"Correct spelling '{expected_correct}' not suggested for '{misspelled}'")
+AssertionError: 'ಅಂಗನವಾಡಿಗಳನ್ನು' not found in ['ಅಂಗನವಾಡಿಯನ್ನು', 'ಗಂಗವಾಡಿಯನ್ನು', 'ಅಂಗಡಿಯನ್ನು', 'ಅಂಗಹಾನಿಯನ್ನು', 'ಅಂಗಹಾನಿಗಳನ್ನು', 'ಅವರವಾಡಿಯನ್ನು', 'ಹಾ             ಾವಾಡಿಗರನ್ನು', 'ಬಾಲವಾಡಿಯನ್ನು'] : Correct spelling 'ಅಂಗನವಾಡಿಗಳನ್ನು' not suggested for 'ಅಂಗವಾಡಿಗನ್ನು'
+
+======================================================================
+FAIL: test_misspellings (__main__.TestSpellSuggestions.test_misspellings) (misspelled='ಪ್ರೀತಸತ್ತಿದ್ದನು')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "c:\Users\aadit\OneDrive\Desktop\IndividualProject\final-year-project-Aaditya011\test.py", line 130, in test_misspellings
+    self.assertIn(expected_correct, suggestion_words, f"Correct spelling '{expected_correct}' not suggested for '{misspelled}'")
+AssertionError: 'ಪ್ರೀತಿಸುತ್ತಿದ್ದನು' not found in ['ಪ್ರೀತಿಸುತ್ತಿದ್ದು', 'ಪ್ರೀತಿಸುತ್ತಿದ್ದ', 'ಪ್ರೀತಿಸುತ್ತಿದ್ದಾನೆ', 'ಪ್ರೀತಿಸುತ್ತಿದ್ದರೂ', 'ಪ್ರೀತಿಸುತ್ತಿದ                             ದ್ದರೆ', 'ಪ್ರೀತಿಸುತ್ತಿದ್ದೇನೆ', 'ಪ್ರೀತಿಸುತ್ತಿದ್ದೆ', 'ಪ್ರೀತಿಸುತ್ತಿದ್ದೆವು'] : Correct spelling 'ಪ್ರೀತಿಸುತ್ತಿದ್ದನು' not suggested for 'ಪ್ರೀತಸತ್ತಿದ್ದನು' 
+
+----------------------------------------------------------------------
+Ran 12 tests in 43.233s
+
+FAILED (failures=3)
